@@ -1,19 +1,21 @@
+
+
+<!DOCTYPE html>
+<html>
+<head></head>
+<title></title>
+<script>
+var a = "<br>Tere";
+document.write(a);
+console.log(a);    
+</script>
+<body>
+
 <?php
-
-# Kommentaar
-// Üherealine kommentaar
-
-/*
-Mitme
-realine 
-kommentaar
-*/
-$hello =  "Tere";
-
-echo "$hello world!<br>";
-echo '$hello world!<br>';    
-echo "<strong>Mina olen teine lause</strong>";
-
-
-
+    require 'functions.php';
+    menyy();
 ?>
+    
+</body>
+    
+</html>
