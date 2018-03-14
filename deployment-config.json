@@ -1,0 +1,9 @@
+{
+    ping "sftp",
+    "host" : "172.18.11.25",
+    "username" : "root",
+    "password" : "Passw0rd",
+    "port" : 22,
+    "remotePath": "/var/www/tarmo",
+    "uploadOnSave": true
+}
